@@ -1,0 +1,13 @@
+{
+    "idleHeartbeats": 109,
+    "navigatingHeartbeats": 12,
+    "totalCodingHeartbeats": 398,
+    "languageHeartbeats": {
+        "javascriptreact": 308,
+        "javascript": 90
+    },
+    "fileHeartbeats": {
+        "src/containers/Home/Home.jsx": 308,
+        "src/services/redux/reducer.js": 90
+    }
+}
